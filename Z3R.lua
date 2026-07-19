@@ -1,7 +1,7 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vhhvwvvchvvydvbff-wq/Script-/refs/heads/main/To%C3%B1itax%20librari", true))()
 
-local window = library:AddWindow("𝐒𝐄𝐑𝐀𝐏𝐇 𝐇𝐔𝐁 | Public", {
-    main_color = Color3.fromRGB(30, 30, 30),
+local window = library:AddWindow("𝗦𝗘𝗥𝗔𝗣𝗛 𝗛𝗨𝗕 | Public", {
+    main_color = Color3.fromRGB(0, 0, 0),
     min_size = Vector2.new(700, 700),
     can_resize = true,
 })
