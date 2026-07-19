@@ -1,9 +1,9 @@
 local v1 = loadstring(
 	game:HttpGet(
-		"https://raw.githubusercontent.com/iblameaabis/Ililililililililililililil/refs/heads/main/W%20UI",
+		"https://raw.githubusercontent.com/slashzix1823-droid/Librery/refs/heads/main/Librery.lua",
 		true
 	)
-)():AddWindow("KingCanes Private Hub | By Iblameaabis", {
+)():AddWindow("SERAPH HUB | By Bl4z3r", {
 	["main_color"] = Color3.fromRGB(21, 31, 41),
 	["min_size"] = Vector2.new(610, 520),
 	["can_resize"] = false,
